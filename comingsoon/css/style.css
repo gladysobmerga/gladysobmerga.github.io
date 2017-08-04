@@ -258,6 +258,12 @@ input#cspio-email {
 	}
 }
 
+@media (max-width:320px){
+	#cspio-subscribe-btn {
+	    padding: 10px 50px !important;
+	}
+}
+
 /* Gravity Forms */
 #gforms_confirmation_message {
   background-color: transparent !important;
